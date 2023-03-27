@@ -1,2 +1,6 @@
 ssh_with_paramiko/test_rsa.key
 ssh_with_paramiko/test_rsa.key.pub
+ssh_with_paramiko/ssh_rcmd.devdoc
+ssh_with_paramiko/ssh_rcmd.exp
+ssh_with_paramiko/ssh_server.devdoc
+ssh_with_paramiko/ssh_server.exp
